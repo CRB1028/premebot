@@ -3,3 +3,4 @@
 components/__pycache__
 bot/__pycache__
 config
+.env
